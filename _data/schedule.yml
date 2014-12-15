@@ -1,0 +1,64 @@
+- 
+  date: "2014-12-12"
+  dateReadable: "12 de Diciembre"
+  tracks: 
+    - {title: "Desarrollo", color: "#90be4e"}
+#    - {title: "Web & Cloud", color: "#03a9f4"}
+#    - {title: "Community", color: "#e91e63"}
+  timeslots:
+    - {
+    	startTime: "17:00",
+    	endTime: "17:45",
+    	sessionIds: [004]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "18:45",
+        sessionIds: [003]
+    }
+    - {
+    	startTime: "18:45",
+    	endTime: "19:15",
+    	sessionIds: [307]
+    }
+    - {
+        startTime: "19:15",
+        endTime: "20:00",
+        sessionIds: [002]
+    }
+    - {
+        startTime: "20:00",
+        endTime: "20:45",
+        sessionIds: [001]
+    }
+- 
+  date: "2014-12-13"
+  dateReadable: "13 de Diciembre"
+  tracks: 
+    - {title: "Hackaton", color: "#03a9f4"}
+  timeslots: 
+    - {
+        startTime: "10:00",
+        endTime: "11:00",
+        sessionIds: [006]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "14:00",
+        sessionIds: [007]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "15:00",
+        sessionIds: [308]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "18:00",
+        sessionIds: [008]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "19:00",
+        sessionIds: [009]
+    }

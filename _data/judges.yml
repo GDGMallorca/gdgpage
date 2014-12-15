@@ -1,0 +1,34 @@
+- 
+  id: 0
+  name: "Iñaki"
+  surname: "Villar"
+  company: "GDG Mallorca, Ryanair"
+  title: "Android Developer"
+  thumbnailUrl: inaki.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+I%C3%B1akiVillar/posts"}
+    - {name: "twitter", link: "https://twitter.com/inyaki_mwc"}
+    - {name: "github", link: "https://github.com/cdsap/"}
+- 
+  id: 1
+  name: "Santi"
+  surname: "Iglesias"
+  company: "GDG Mallorca, eKameno"
+  title: "Android Developer"
+  thumbnailUrl: santi.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/113841534482981360303/posts"}
+    - {name: "twitter", link: "https://twitter.com/ianholing"}
+    - {name: "github", link: "https://github.com/ianholing"}
+    - {name: "site", link: "http://www.ekameno.com/"}
+- 
+  id: 2
+  name: "Juan Miguel"
+  surname: "Liras"
+  company: "GDG Mallorca, Globalia Sistemas"
+  title: "Backend Developer"
+  thumbnailUrl: sekongur.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/113451672881332358349/posts"}
+    - {name: "twitter", link: "https://twitter.com/sekongur"}
+    - {name: "site", link: "http://www.walknplaygames.com/"}

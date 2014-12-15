@@ -1,0 +1,42 @@
+- 
+  id: 3
+  name: "Juan Miguel"
+  surname: "Liras"
+  company: "Globalia Sistemas"
+  title: ""
+  bio: ""
+  thumbnailUrl: sekongur.jpg
+  #ribbon: 
+  #  - {abbr: "", title: "JS Expert"}
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/113451672881332358349/posts"}
+    - {name: "twitter", link: "https://twitter.com/sekongur"}
+- 
+  id: 4
+  name: "Iñaki"
+  surname: "Villar"
+  company: "Ryanair"
+  title: "Android Expert"
+  bio: ""
+  thumbnailUrl: inaki.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "Android", title: "Android Expert", url: "#"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+I%C3%B1akiVillar/posts"}
+    - {name: "twitter", link: "https://twitter.com/inyaki_mwc"}
+- 
+  id: 5
+  name: "Santiago"
+  surname: "Iglesias"
+  company: "eKameno"
+  title: ""
+  bio: ""
+  thumbnailUrl: santi.jpg
+  rockstar: true
+  #ribbon: 
+  #  - {abbr: "HTML5", title: "HTML5 Expert", url: "#"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/113841534482981360303/posts"}
+    - {name: "twitter", link: "https://twitter.com/ianholing"}

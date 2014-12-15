@@ -1,0 +1,12 @@
+- 
+  group: "Organizadores"
+  elements: 
+    - {name: "GDG Mallorca", description: "Google Developers Group Mallorca", link: "http://www.gdgmallorca.com", imageUrl: "gdgmallorca.png"}
+- 
+  group: "Colaboradores"
+  elements: 
+    - {name: "Betabeers", description: "Betabeers", link: "https://betabeers.com/", imageUrl: "betabeers.png"}
+    - {name: "MallorcaJS", description: "MallorcaJS", link: "http://www.meetup.com/MallorcaJS/", imageUrl: "mallorcajs.jpg"}
+    - {name: "Animartec", description: "Animartec", link: "https://www.animartec.com/", imageUrl: "animartec.png"}
+    - {name: "Karumi", description: "Karumi", link: "http://karumi.com/", imageUrl: "karumi.png"}
+    - {name: "GDG Barcelona", description: "Google Developers Group Barcelona", link: "http://gdgbarcelona.blogspot.com.es/", imageUrl: "gdgbarcelona.png"}

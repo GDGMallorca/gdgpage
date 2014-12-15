@@ -1,0 +1,268 @@
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
+
+
+# Site Settings
+title: "GDG Mallorca"
+email: "mallorcagdg@gmail.com"
+description: "GDG Mallorca - Google Developer Group Chapter"
+baseurl: ""
+url: "http://www.gdgmallorca.com"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsSiteUrl: "www.gdgmallorca.com"
+
+# Organizer Info
+organizerName: "GDG Mallorca"
+organizerAlternateName: "Google Developer Group Mallorca"
+organizerDescription: "El GDG Mallorca es un grupo sin ánimo de lucro, formado por desarrolladores de Mallorca que tienen el objetivo de aprender e intercambiar conocimientos y experiencias acerca de las tecnologías de Google."
+organizerEmail: "mallorcagdg@gmail.com"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://www.gdgmallorca.com/"
+
+# Head
+metaKeywords: "event, gdg, google, programming, android, mallorca, desarrolladores"
+twitterAccount: "@GDGMallorca"
+socialImageSrcGooglePlus: "/img/seo/organizer-logo.png"
+socialImageSrcTwitter: "/img/seo/organizer-logo.png"
+socialImageSrcFacebook: "/img/seo/organizer-logo.png"
+
+# Documents
+c4pUrl: "http://goo.gl/forms/Xt53lzDs5x"
+#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "mailto:mallorcagdg@gmail.com"
+
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Inicio"}
+ - {permalink: "/organizers/", text: "Organizadores"}
+ - {permalink: "http://devfest.gdgmallorca.com", text: "DevFest 2014"}
+# - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/schedule/", text: "Programa"}
+# - {permalink: "/hackathon/", text: "Hackathon"}
+bottomNavigationLinks:
+ - {link: "http://goo.gl/forms/Xt53lzDs5x", text: "¿Queres dar una charla?"}
+rightNavigationButtons:
+ - {link: "http://goo.gl/forms/Xt53lzDs5x", text: "¿Queres dar una charla?"}
+
+# Hero Block
+heroImage: "hero.jpg"
+heroTitle: "GDG Mallorca <typeout>"
+eventDate: ""
+typeoutTextValues: '"Developers","Events","Android","Hackathons"'
+typeoutFallback: "Developers"
+heroButtons:
+ - {link: "http://goo.gl/forms/Xt53lzDs5x", text: "¿Queres dar una charla?"}
+# - {permalink: "/#tickets", text: "Entradas"}
+
+# About Block
+aboutTitle: "Sobre GDG Mallorca"
+aboutBlock:
+ - {title: "Conferencias", image: "conference.jpg", text: "GDG Mallorca trae a grandes speakers para eventos de todo tipo, Web, Android, ..." }
+ - {title: "Talleres", image: "workshop.jpg", text: "No dejes nunca de aprender y apúntate a talleres y codelabs sobre Wear, Android, Web, y todo lo que te interese" }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "Quieres demostrar tu valia como desarrollador? Preparate para un hackathon y estupendos premios!" }
+
+# Statistic Block
+#statisticBlockImage: "statistic.jpg"
+#statisticBlock:
+# - {count: "50", specialCharacter: "+", info: "desarrolladores ", detail: "de toda la isla"}
+# - {count: "13", specialCharacter: "", info: "horas", detail: "de Google technologies"}
+# - {count: "5", specialCharacter: "+", info: "speakers", detail: " de primera linea en Android y Web"}
+# - {count: "1", specialCharacter: "", info: "hackathon", detail: "demuestra tu conocimiento"}
+
+# Latest News Block
+latestNewsTitle: "Últimas noticias"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 3
+rockstarSpeakersTitle: "GDG Mallorca Organizers"
+rockstarSpeakersButtonText: "Ver todos los organizadores"
+
+# Location Block
+locationBlockTitle: "¿Dónde?"
+eventLocationName: "Parc Bit"
+eventLocationLink: "http://www.parcbit.es"
+eventStreetAddress: "C/ Laura Bassi"
+eventAddressLocality: "Centre Empresarial Son Espanyol"
+eventAddressLocalityRegion: "Mallorca"
+eventPostalCode: "07121"
+eventAddressCountry: "Spain"
+eventStartTime: "2014-12-12T17:00"
+eventDoorTime: "17:00"
+eventEndTime: "2014-10-24T21:00"
+eventPlaceCoordinates: "39.637413, 2.633607"
+mapCenterCoordinates: "39.637413, 2.633607"
+mapMobileCenterCoordinates: "39.637413, 2.633607"
+
+# Venue Block
+venueBlockTitle: "Lugar"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "Parc Bit"
+venueFeatures: ["Parque Balear de innovación tecnológica", "Las salas mejor acondicionadas"]
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "¿Qué está pasando?"
+twitterHashTag: "@gdgmallorca"
+twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+
+# Partners Block
+organizersTitle: "Organizadores"
+partnersTitle: "Patrocinadores"
+partnersC4sponsorsButton: "Conviértete en patrocinador"
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Subscríbete para no perderte nada"
+subscribeAction: "http://gdgmallorca.us9.list-manage.com/subscribe/post?u=39305c0abac7de34a923f7a4a&amp;id=49c102aaa5"
+subscribeInfo: "Apúntate cuanto antes y enterate el primero de qué se cuece en Mallorca"
+
+# Tickets Block
+ticketsTitle: "Entradas"
+ticketsInfo: "Las entradas te dan acceso a las conferencias o a la hackathon, tendrán prioridad los que hayan solicitado su entrada"
+ticketsOffers:
+ -
+  name: "Entrada básica"
+  price: "Gratis"
+  priceCurrency: ""
+  ticketsNumber: "50"
+  featured: true
+  ribbon: "Gratis!"
+  buyButtonLink: "http://eepurl.com/7Fra9"
+  buyButtonText: "Pídela ya"
+  ticketContentList: ["Entrada para las conferencias"]
+  validFrom: "2014-08-25T10:00"
+  validThrough: "2014-12-11T23:59"
+ -
+  name: "Hackathon"
+  price: "Gratis"
+  priceCurrency: ""
+  ticketsNumber: "20"
+  ribbon: "Gratis!"
+  buyButtonLink: "http://eepurl.com/7Nk7T"
+  buyButtonText: "Pídela ya"
+  ticketContentList: ["Un Google Cardboard para cada participante", "Un Remotte para el ganador"]
+  validFrom: "2014-10-01T00:00"
+  validThrough: "2014-12-11T23:59"
+  disabled: false
+
+# Footer
+socialLinks:
+ - {link: "https://plus.google.com/101769406777537927870/posts", icon: "google-plus"}
+ - {link: "https://twitter.com/GDGMallorca", icon: "twitter"}
+ - {link: "https://www.facebook.com/pages/Mallorca-Developers/579904482114691", icon: "facebook"}
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "https://developers.google.com/groups/chapter/101769406777537927870/", text: "GDG Mallorca"}
+   - {link: "https://developers.google.com", text: "Google Developers"}
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:mallorcagdg@gmail.com", text: "mallorcagdg@gmail.com"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/cod/", text: "Código de Conducta"}
+
+# Blog
+blogTitle: "Ultimas noticias"
+blogCommentsEnabled: true
+discusShortName: "gdgdevfestmallorca2014"
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "About us"
+aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+
+# Logistics Find Way Block
+findWayTitle: "Encuentra la forma de llegar"
+findWayDistance: "Distance"
+findWayDriving: "DRIVING"
+findWayWalking: "WALKING"
+findWayBicycling: "BICYCLING"
+findWayTransit: "TRANSIT"
+findWayFindFlight: "Encontrar vuelos"
+logisticsMapCenterCoordinates: "39.637413, 2.633607"
+logisticsMapMobileCenterCoordinates: "39.637413, 2.633607"
+
+# Logistics Direction Details Block
+#directionDetailsImage: "direction-details.jpg"
+#directionDetailsTitle: "Llega al Parc Bit"
+#directionDetailsCards:
+# - {title: "From the Airport", information: ''}
+# - {title: "Public Transit", information: ''}
+# - {title: "Hotels", information: ''}
+#directionDetailsWideCards: 
+# -
+#  title: "Questions? <a href='https://twitter.com/GDGMallorca'>@GDGMallorca</a>"
+#  subCards:
+#   -
+#    title: "Hotels"
+#    links:
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#   - 
+#    title: "Registration"
+#    links:
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#   -
+#    title: "Attendance Details"
+#    links:
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+
+# Hackathon
+hackathonTitle: "Hackathon"
+enableHackathon: true
+
+# Hackathon About Block
+aboutHackathonTitle: "Conoce los temas"
+hackathonRows:
+ - {title: "Google Cardboard", image: "hackathon-0.png", details: "Los participantes podrán probar la API de Google Cardboard y crear su propio entorno de realidad virtual"}
+ - {title: "Remotte", image: "hackathon-1.png", details: "Qué mejor forma de controlar un entorno virtual con el mando Remotte"}
+
+# Hackathon Judges Block
+judgesImage: "judges.jpg"
+judgesTitle: "Jueces"
+
+# Hackathon Prizes Block
+prizesTitle: "Premios"
+prizes:
+ - {title: "1er Puesto", image: "prize-1.png", info: "Remotte"}
+
+# Hackathon Location Block
+hackathonLocationBlockTitle: "Lugar"
+hackathonLocationName: "Parc Bit"
+hackathonLocationLink: "http://www.parcbit.es/"
+hackathonStreetAddress: "C/ Laura Bassi, Centre Empresarial Son Espanyol"
+hackathonAddressLocality: "Palma de Mallorca"
+hackathonAddressLocalityRegion: "Baleares"
+hackathonPostalCode: "07121"
+hackathonAddressCountry: "Spain"
+hackathonTimeTitle: "Horario"
+hackathonStartTime: "2014-12-13T10:00"
+hackathonDoorTime: "10:00"
+hackathonEndTime: "2014-12-13T18:00"
+viewOnMap: "Ver en Google Maps"
+hackathonPlaceCoordinates: "39.637413, 2.633607"
+hackathonMapCenterCoordinates: "39.637413, 2.633607"
+hackathonMapMobileCenterCoordinates: "39.637413, 2.633607"

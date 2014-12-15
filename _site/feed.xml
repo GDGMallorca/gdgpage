@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GDG Mallorca</title>
+    <description>GDG Mallorca - Google Developer Group Chapter</description>
+    <link>http://www.gdgmallorca.com/</link>
+    <atom:link href="http://www.gdgmallorca.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Hello World!</title>
+        <description>&lt;p&gt;El GDG DevFest Mallorca empieza aquí!
+Estamos muy emocionados por poder organizar el primer DevFest de Mallorca! Tenemos grandes speakers y dos días estupendos por delante.
+El 12 de diciembre todos los desarrolladores de Sa Roqueta tenéis una cita en el Parc Bit.
+Y para los más aventureros, el sábado 13 os espera una hackaton de Google Cardboard y Remotte.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://devfest.gdgmallorca.com/&quot;&gt;GDG DevFest Mallorca 2014&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;El evento tiene lugar en las instalaciones del Parc Bit, en el Centro Empresarial Son Espanyol. Su sala de prensa servirá par acoger a los 5 fantásticos speakers, y la sala de formación estará preparada para conectar vuestros portátiles y frikear con la realidad virtual.&lt;/p&gt;
+
+&lt;p&gt;Todavía no estás convencido?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Asistentes&lt;/strong&gt;: 50 desarrolladores de la isla tendrán cabida en el exclusivo evento&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Topic&lt;/strong&gt;: Dos días de las últimas tecnologías&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fecha&lt;/strong&gt;: 12-13 de diciembre.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lugar&lt;/strong&gt;: Parc Bit&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Speakers&lt;/strong&gt;: Visita &lt;a href=&quot;http://devfest.gdgmallorca.com/speakers/&quot;&gt;esta página&lt;/a&gt; para conocerlos a todos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Suscríbete a la lista desde &lt;a href=&quot;http://gdgmallorca.us9.list-manage.com/subscribe?u=39305c0abac7de34a923f7a4a&amp;amp;id=49c102aaa5&quot;&gt;aquí&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Nov 2014 09:00:00 +0100</pubDate>
+        <link>http://www.gdgmallorca.com/blog/hello-world</link>
+        <guid isPermaLink="true">http://www.gdgmallorca.com/blog/hello-world</guid>
+      </item>
+    
+  </channel>
+</rss>
