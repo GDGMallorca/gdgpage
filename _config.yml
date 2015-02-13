@@ -111,7 +111,7 @@ venueFeatures: ["Parque Balear de innovación tecnológica", "Las salas mejor ac
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "¿Qué está pasando?"
 twitterHashTag: "@gdgmallorca"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?user=gdgmallorca&cache_interval=900"
 
 # Partners Block
 organizersTitle: "Organizadores"
