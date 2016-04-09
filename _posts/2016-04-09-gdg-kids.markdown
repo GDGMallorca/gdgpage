@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "GDG Kids en Mallorca!"
+date:   2016-04-09 º8:00:00
+isStaticPost: false
+---
+### GDK Kids Mallorca @ Tecnoaprendo ###
+
+[![Everything Is AWESOME](http://img.youtube.com/vi/cBB5K4U9Z4o/0.jpg)](https://www.youtube.com/watch?v=cBB5K4U9Z4o "GDG Kids @ Tecnoaprendo")
+
+El siguiente 23 de Abril daremos el pistoletazo de salida a un evento que ha tenido muy buena acogida en otros GDGs de sus respectivas comunidades, el GDG Kids.
+Si tienes un hijo de entre 8 y 14 años y estás interesado en hacerle pasar un buen rato mientras aprende a ser un buen geek y tú te tomas un descanso.. Este es tu evento.
+
+GDG Kids es una Hackaton de Sratch donde no son necesarios conocimientos previos para venir. Aprenderán a programar de la forma más fácil y divertida en las 
+instalaciones de [Tecnoaprendo](http://www.tecnoaprendo.es/), un lugar idóneo para el evento.
+
+Tendremos merienda, premios y pasaremos una tarde divertida creando nuestro primer desarrollo en Scratch 
+para después culminar el evento con las presentaciones a los papás y la entrega de premios.
+
+Todavía no estás convencido?
+
+* **Asistentes**: 20 Niños de diferentes edades tendrán el privilegio de ser los primeros en participar 
+* **Topic**: Una hackaton de lo más divertida!
+* **Fecha**: 23 de Abril de las 16h-20h
+* **Lugar**: [Tecnoaprendo](http://www.tecnoaprendo.es/)
+
+**NO TARDES EN APUNTARTE! ES GRATIS Y TENEMOS UN CUPO MUY REDUCIDO: [APÚNTATE](http://gdgmallorca.us9.list-manage.com/subscribe?u=39305c0abac7de34a923f7a4a&id=49c102aaa5)**
+
+Suscríbete a la lista del GDG Mallorca desde [aquí](http://gdgmallorca.us9.list-manage.com/subscribe?u=39305c0abac7de34a923f7a4a&id=49c102aaa5)
