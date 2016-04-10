@@ -14,24 +14,24 @@
     - {name: "twitter", link: "https://twitter.com/sekongur"}
 - 
   id: 4
-  name: "Iñaki"
-  surname: "Villar"
-  company: "Ryanair"
-  title: "Android Expert"
+  name: "Manuel"
+  surname: "Jiménez"
+  company: "Habitissimo"
+  title: "Android developer"
   bio: ""
-  thumbnailUrl: inaki.jpg
+  thumbnailUrl: manu.webp
   rockstar: true
   ribbon: 
-    - {abbr: "Android", title: "Android Expert", url: "#"}
+    - {abbr: "Android", title: "Android Developer", url: "#"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+I%C3%B1akiVillar/posts"}
-    - {name: "twitter", link: "https://twitter.com/inyaki_mwc"}
+    - {name: "google-plus", link: "https://plus.google.com/+ManuelJim%C3%A9nezTorres"}
+    - {name: "twitter", link: "https://twitter.com/tortill4"}
 - 
   id: 5
   name: "Santiago"
   surname: "Iglesias"
   company: "eKameno"
-  title: ""
+  title: "CTO eKameno"
   bio: ""
   thumbnailUrl: santi.jpg
   rockstar: true

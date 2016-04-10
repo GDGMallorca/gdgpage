@@ -6,13 +6,23 @@ isStaticPost: false
 ---
 ### GDK Kids Mallorca @ Tecnoaprendo ###
 
-[![Everything Is AWESOME](http://img.youtube.com/vi/cBB5K4U9Z4o/0.jpg)](https://www.youtube.com/watch?v=cBB5K4U9Z4o "GDG Kids @ Tecnoaprendo")
+![GDGKids](/img/posts/GDGKids.png)
 
-El siguiente 23 de Abril daremos el pistoletazo de salida a un evento que ha tenido muy buena acogida en otros GDGs de sus respectivas comunidades, el GDG Kids.
+El siguiente 23 de Abril daremos el pistoletazo de salida a un evento que ha tenido muy buena acogida en otros GDGs de sus respectivas comunidades, GDG Kids.
 Si tienes un hijo de entre 8 y 14 años y estás interesado en hacerle pasar un buen rato mientras aprende a ser un buen geek y tú te tomas un descanso.. Este es tu evento.
 
 GDG Kids es una Hackaton de Sratch donde no son necesarios conocimientos previos para venir. Aprenderán a programar de la forma más fácil y divertida en las 
 instalaciones de [Tecnoaprendo](http://www.tecnoaprendo.es/), un lugar idóneo para el evento.
+
+[![Everything Is AWESOME](http://img.youtube.com/vi/cBB5K4U9Z4o/0.jpg)](https://www.youtube.com/watch?v=cBB5K4U9Z4o "GDG Kids @ Tecnoaprendo")
+
+Quiere ser la historia que los pequeños de hoy cuenten a sus compañeros de profesión cuando llegue la inevitable pregunta sobre sus orígenes. 
+Pretende ser ese primer contacto que apasiona y enamora, la oportunidad de cruzar una puerta a un mundo nuevo donde no existe la magia, pero sí los magos. 
+Donde la imaginación es la única herramienta importante.
+
+Enseñamos mediante juegos lo que significa programar y en qué consiste un lenguaje de programación además de sus piezas atómicas, 
+las instrucciones. Para ello usamos Scratch, herramienta con la que los niños pueden resolver sus ejercicios de matemáticas, pero también hacer dibujos, 
+películas, contar historias o crear juegos.
 
 Tendremos merienda, premios y pasaremos una tarde divertida creando nuestro primer desarrollo en Scratch 
 para después culminar el evento con las presentaciones a los papás y la entrega de premios.
@@ -24,6 +34,6 @@ Todavía no estás convencido?
 * **Fecha**: 23 de Abril de las 16h-20h
 * **Lugar**: [Tecnoaprendo](http://www.tecnoaprendo.es/)
 
-**NO TARDES EN APUNTARTE! ES GRATIS Y TENEMOS UN CUPO MUY REDUCIDO: [APÚNTATE](http://gdgmallorca.us9.list-manage.com/subscribe?u=39305c0abac7de34a923f7a4a&id=49c102aaa5)**
+**NO TARDES EN APUNTARTE! ES GRATIS Y TENEMOS UN CUPO MUY REDUCIDO: [APÚNTATE AQUÍ](http://entradium.com/entradas/gdg-kids-con-tecnoaprendo)**
 
 Suscríbete a la lista del GDG Mallorca desde [aquí](http://gdgmallorca.us9.list-manage.com/subscribe?u=39305c0abac7de34a923f7a4a&id=49c102aaa5)
