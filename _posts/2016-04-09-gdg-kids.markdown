@@ -4,7 +4,7 @@ title:  "GDG Kids en Mallorca!"
 date:   2016-04-09 º8:00:00
 isStaticPost: false
 ---
-### GDK Kids Mallorca @ Tecnoaprendo ###
+### GDG Kids Mallorca @ Tecnoaprendo ###
 
 ![GDGKids](/img/posts/GDGKids.png)
 
@@ -14,7 +14,7 @@ Si tienes un hijo de entre 8 y 14 años y estás interesado en hacerle pasar un 
 GDG Kids es una Hackaton de Sratch donde no son necesarios conocimientos previos para venir. Aprenderán a programar de la forma más fácil y divertida en las 
 instalaciones de [Tecnoaprendo](http://www.tecnoaprendo.es/), un lugar idóneo para el evento.
 
-[![Everything Is AWESOME](http://img.youtube.com/vi/cBB5K4U9Z4o/0.jpg)](https://www.youtube.com/watch?v=cBB5K4U9Z4o "GDG Kids @ Tecnoaprendo")
+<!--[![Everything Is AWESOME](http://img.youtube.com/vi/cBB5K4U9Z4o/0.jpg)](https://www.youtube.com/watch?v=cBB5K4U9Z4o "GDG Kids @ Tecnoaprendo")-->
 
 Quiere ser la historia que los pequeños de hoy cuenten a sus compañeros de profesión cuando llegue la inevitable pregunta sobre sus orígenes. 
 Pretende ser ese primer contacto que apasiona y enamora, la oportunidad de cruzar una puerta a un mundo nuevo donde no existe la magia, pero sí los magos. 
