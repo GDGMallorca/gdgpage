@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GDG Kids en Mallorca!"
-date:   2016-04-09 º8:00:00
+date:   2016-04-12 º8:00:00
 isStaticPost: false
 ---
 ### GDG Kids Mallorca @ Tecnoaprendo ###
@@ -37,3 +37,8 @@ Todavía no estás convencido?
 **NO TARDES EN APUNTARTE! ES GRATIS Y TENEMOS UN CUPO MUY REDUCIDO: [APÚNTATE AQUÍ](http://entradium.com/entradas/gdg-kids-con-tecnoaprendo)**
 
 Suscríbete a la lista del GDG Mallorca desde [aquí](http://gdgmallorca.us9.list-manage.com/subscribe?u=39305c0abac7de34a923f7a4a&id=49c102aaa5)
+
+El evento es posible gracias a nuestros patrocinadores
+![Tecnoaprendo](/img/posts/tecnoaprendo.png)
+![3DSoma](/img/posts/3dsoma.jpg)
+![Google](/img/posts/google.png)
