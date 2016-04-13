@@ -41,4 +41,5 @@ Suscríbete a la lista del GDG Mallorca desde [aquí](http://gdgmallorca.us9.lis
 El evento es posible gracias a nuestros patrocinadores
 ![Tecnoaprendo](/img/posts/tecnoaprendo.png)
 ![3DSoma](/img/posts/3dsoma.jpg)
+![Defcon](/img/posts/defcon.jpg)
 ![Google](/img/posts/google.png)
